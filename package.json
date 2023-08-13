@@ -1,0 +1,28 @@
+{
+  "name": "pincode-js",
+  "version": "1.0.0",
+  "description": "A simple JS package to validate different country's pincodes",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tathagat-m/pincode-js.git"
+  },
+  "keywords": [
+    "pincode",
+    "postcode",
+    "pin",
+    "post"
+  ],
+  "author": "Tathagat Mohanty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tathagat-m/pincode-js/issues"
+  },
+  "homepage": "https://github.com/tathagat-m/pincode-js#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
