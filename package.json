@@ -1,8 +1,8 @@
 {
   "name": "pincode-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple JS package to validate different country's pincodes",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "test": "npm run test"
   },
@@ -14,7 +14,12 @@
     "pincode",
     "postcode",
     "pin",
-    "post"
+    "post",
+    "pin code",
+    "post code",
+    "validation",
+    "pincode validation",
+    "pincode validator"
   ],
   "author": "Tathagat Mohanty",
   "license": "MIT",
