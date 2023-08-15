@@ -1,6 +1,6 @@
 {
   "name": "pincode-js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple JS package to validate different country's pincodes",
   "main": "dist/index.js",
   "scripts": {

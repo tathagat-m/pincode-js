@@ -1,1 +1,1 @@
-export declare const POSTCODE_REGEXES: Map<string, RegExp>;
+export declare const PINCODE_REGEXES: Map<string, RegExp>;

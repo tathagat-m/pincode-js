@@ -1,9 +1,9 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.POSTCODE_REGEXES = void 0;
+exports.PINCODE_REGEXES = void 0;
 const pincode_types_1 = require("./pincode-types");
 // TODO: Remove CountryCode.UK in next major version release
-exports.POSTCODE_REGEXES = new Map([
+exports.PINCODE_REGEXES = new Map([
     [
         pincode_types_1.CountryCode.UK,
         /^([A-Z]){1}([0-9][0-9]|[0-9]|[A-Z][0-9][A-Z]|[A-Z][0-9][0-9]|[A-Z][0-9]|[0-9][A-Z]){1}([ ])?([0-9][A-z][A-z]){1}$/i,
