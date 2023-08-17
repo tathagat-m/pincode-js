@@ -12,9 +12,9 @@ npm install pincode-js
 
 ```javascript
 // commonjs
-const { pincodeValidator, pincodeValidatorExistsForCountry } = require('postcode-validator');
+const { pincodeValidator, pincodeValidatorExistsForCountry } = require('pincode-js');
 // ES6
-import { pincodeValidator, pincodeValidatorExistsForCountry } from 'postcode-validator';
+import { pincodeValidator, pincodeValidatorExistsForCountry } from 'pincode-js';
 
 pincodeValidator('W85TT', 'GB'); // returns true
 pincodeValidator('1234567', 'GB'); // returns false
