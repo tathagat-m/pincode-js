@@ -1,4 +1,4 @@
-# pincode-js
+# [pincode-js](https://www.npmjs.com/package/pincode-js)
 
 A lightweight JS module for parsing and validating postcodes. Country specific validation is supported for most countries including GB, US, Canada, Japan and many others.
 
